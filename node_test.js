@@ -1,2 +1,2 @@
-[2;2~console.log('This example is different!');
+console.log('Excited to start the course!!!');
 console.log('The result is displayed in the Command Line Interface');
